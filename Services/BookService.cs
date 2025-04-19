@@ -88,5 +88,19 @@ public class BookService
         Console.ReadLine();
     }
 
+    public void EditBook()
+    {
+
+    }
+
+    public void DeleteBook()
+    {
+
+    }
+
+    public void FindBook()
+    {
+
+    }
     // TODO: Добавить методы: AddBook, EditBook, DeleteBook, FindBook и т.п.
 }
